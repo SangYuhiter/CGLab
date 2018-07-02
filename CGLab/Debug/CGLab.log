@@ -1,0 +1,8 @@
+﻿  CGLabView.cpp
+d:\code\vs\mfc\cglab\cglab\cglabview.h(11): warning C4305: “初始化”: 从“double”到“float”截断
+d:\code\vs\mfc\cglab\cglab\cglabview.cpp(835): warning C4305: “=”: 从“double”到“float”截断
+d:\code\vs\mfc\cglab\cglab\cglabview.cpp(1116): warning C4244: “初始化”: 从“LONG”转换到“float”，可能丢失数据
+d:\code\vs\mfc\cglab\cglab\cglabview.cpp(1117): warning C4244: “初始化”: 从“LONG”转换到“float”，可能丢失数据
+d:\code\vs\mfc\cglab\cglab\cglabview.cpp(1127): warning C4244: “初始化”: 从“LONG”转换到“float”，可能丢失数据
+d:\code\vs\mfc\cglab\cglab\cglabview.cpp(1128): warning C4244: “初始化”: 从“LONG”转换到“float”，可能丢失数据
+  CGLab.vcxproj -> D:\Code\VS\MFC\CGLab\Debug\CGLab.exe
